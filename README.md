@@ -168,8 +168,8 @@ src/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd assignment/frontend
+   git clone https://github.com/Abhaynegi1/Yumventory.git
+   cd frontend
    ```
 
 2. Install dependencies:
