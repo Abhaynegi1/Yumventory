@@ -1,4 +1,4 @@
-# 🍽️ Yumventory - Food Product Explorer
+# 🍽️ Yumventory(assignment) - Food Product Explorer
 
 A modern, responsive web application for exploring food products using the Open Food Facts API. Built with React, this application allows users to search, filter, and manage food products with an intuitive shopping cart system.
 
